@@ -8,7 +8,7 @@ export default function Home() {
   const router = useRouter()
 
   useEffect(() => {
-    router.push('https://nextjs.org/docs/pages/api-reference/functions/use-router') 
+    router.push('https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley') 
   }, [])
 
   return (
