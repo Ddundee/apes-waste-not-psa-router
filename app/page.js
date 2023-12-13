@@ -8,7 +8,7 @@ export default function Home() {
   const router = useRouter()
 
   useEffect(() => {
-    router.push('https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley') 
+    router.push('https://youtu.be/i8r9yz6T0CA') 
   }, [])
 
   return (
