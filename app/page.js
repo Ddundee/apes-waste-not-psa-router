@@ -8,7 +8,7 @@ export default function Home() {
   const router = useRouter()
 
   useEffect(() => {
-    router.push('https://youtu.be/iP4u2RqUkm4') 
+    router.push('https://youtu.be/UJd6TdbLuzU') 
   }, [])
 
   return (
